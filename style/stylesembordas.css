@@ -126,3 +126,26 @@
     background-color: blueviolet;
     width: fit-content;
 }
+.icone_menu{
+    display: inline-block;
+    height: 20px;
+    vertical-align: bottom;
+}
+.texto_do_icone{
+    display: inline-block;
+    vertical-align: bottom;
+}
+
+.lista-item{
+
+}
+
+.titulo_desafio{
+    display: flex;
+    height: 24px;
+    align-items: center;
+}
+
+.icone_titulo{
+    height: 24px;
+}
