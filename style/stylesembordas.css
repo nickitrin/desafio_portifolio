@@ -1,12 +1,10 @@
 .site{
     background-color: purple;
-    outline: 1px solid red;
     display: flex;
     
 }
 .menu_lateral{
     margin: 2px;
-    outline: 2px solid darkgreen;
     width: 30%;
 
 }
@@ -15,7 +13,6 @@
     border-radius: 10px;
     display: flex;
     margin: 10px;
-    outline: 2px solid blueviolet;
     flex-direction: column;
     align-items: center;
     background-color: plum;
@@ -33,7 +30,6 @@
     border-radius: 10px;
     padding: 10px;
     margin: 10px;
-    outline: 2px solid greenyellow;
     background-color: plum;
     line-height: 30px;
 }
@@ -49,7 +45,6 @@
     border-radius: 10px;
     padding: 10px;
     margin: 10px;
-    outline: 2px solid crimson;
     background-color: plum;
     line-height: 30px;
 }
@@ -66,7 +61,6 @@
     padding: 10px;
     border-radius: 10px;
     margin: 10px;
-    outline: 2px solid springgreen;
     background-color: plum;
 }
 .projetos{
@@ -74,7 +68,6 @@
     flex-direction: row;
     margin:10px 0px;
 
-    outline: 2px solid peru;
 }
 
 .projetos div{
@@ -85,7 +78,6 @@
     padding: 10px;
     margin: 10px;
     width: 100%;
-    outline: 2px solid orangered;
     background-color: plum;
 }
 
@@ -95,7 +87,6 @@
     padding: 10px;
     border-radius: 10px;
     margin: 10px;
-    outline:2px solid steelblue;
     background-color: plum;
 }
 
@@ -104,6 +95,5 @@
     padding: 10px;
     border-radius: 10px;
     margin: 10px;
-    outline:2px solid magenta;
     background-color: plum;
 }
