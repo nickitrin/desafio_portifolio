@@ -12,10 +12,12 @@
     font-family: 'Mukta', sans-serif;
     border-radius: 10px;
     display: flex;
+    padding: 20px;
     margin: 10px;
     flex-direction: column;
     align-items: center;
     background-color: plum;
+    box-shadow: 10px 5px 5px rgba(0, 0, 0, 0.5);
     line-height: 30px;
 }
 
@@ -28,9 +30,10 @@
 .contato{
     font-family: 'Mukta', sans-serif;
     border-radius: 10px;
-    padding: 10px;
+    padding: 20px;
     margin: 10px;
     background-color: plum;
+    box-shadow: 10px 5px 5px rgba(0, 0, 0, 0.5);
     line-height: 30px;
 }
 
@@ -43,24 +46,30 @@
 .tecnologias{
     font-family: 'Mukta', sans-serif;
     border-radius: 10px;
-    padding: 10px;
+    padding: 20px;
     margin: 10px;
     background-color: plum;
+    box-shadow: 10px 5px 5px rgba(0, 0, 0, 0.5);
     line-height: 30px;
 }
 
 .conteudo{
     margin: 2px;
+
     width: 70%;
 }
-
+.contato img{
+    margin: 0px 5px;
+}
 .titulo_projetos{
     font-family: 'Mukta', sans-serif;
     font-weight: 600;
-    padding: 10px;
+    font-size: 24px;
+    padding: 20px;
     border-radius: 10px;
     margin: 10px;
     background-color: plum;
+    box-shadow: 10px 5px 5px rgba(0, 0, 0, 0.5);
 }
 .projetos{
     display: flex;
@@ -78,15 +87,24 @@
     margin: 10px;
     width: 100%;
     background-color: plum;
+    box-shadow: 10px 5px 5px rgba(0, 0, 0, 0.5);
+}
+.projetos h3{
+    font-size: 20px;
+}
+.projetos img{
+    margin: -2px 10px;
 }
 
 .titulo_posts{
     font-weight: 600;
     font-family: 'Mukta', sans-serif;
-    padding: 10px;
+    font-size: 24px;
+    padding: 20px;
     border-radius: 10px;
     margin: 10px;
     background-color: plum;
+    box-shadow: 10px 5px 5px rgba(0, 0, 0, 0.5);
 }
 
 .posts{
@@ -95,4 +113,16 @@
     border-radius: 10px;
     margin: 10px;
     background-color: plum;
+    box-shadow: 10px 5px 5px rgba(0, 0, 0, 0.5);
+}
+.caixa_tecnologias{
+    display: flex;
+}
+
+.caixa_habilidade{
+    margin: 12px 5px;
+    border-radius: 10px;
+    padding: 0px 10px;
+    background-color: blueviolet;
+    width: fit-content;
 }
